@@ -1,0 +1,6 @@
+# Summary of this site for AI agents and LLMs: https://zaytoonrestaurant.com/llms.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://zaytoonrestaurant.com/sitemap.xml
